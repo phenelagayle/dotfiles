@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = phenelagayle.luengo@yahoo.com
+	name = Phenela Luengo
